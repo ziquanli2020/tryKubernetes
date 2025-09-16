@@ -1,3 +1,0 @@
-kubectl create deployment mynodeapp-dep --image=my-node-app
-kubectl edit deployments mynodeapp-dep
-kubectl logs -f mynodeapp-dep-**
